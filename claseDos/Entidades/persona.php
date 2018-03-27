@@ -2,7 +2,7 @@
 
 include ('Imostrable.php');
 
-class persona implements Imostrable{
+abstract class persona implements Imostrable{
 
 
 	private $nombre;
